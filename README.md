@@ -8,6 +8,7 @@ Contracts at
  - https://rinkeby.etherscan.io/address/0x11670598c194117e7c47c8d3439a4e43d5080a0e
  - https://rinkeby.etherscan.io/tx/0xa6d42f93f05ea2cdf4e5137d45741105d03c838b646c614d42018974e4e6a26d
 
+Storefront at https://rinkeby.opensea.io/assets/unidentified-contract-v311
 
 # Usage
 
