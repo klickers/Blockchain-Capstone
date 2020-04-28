@@ -2,6 +2,11 @@
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product.
 
+Node Version:
+```
+10.15.0
+```
+
 # Project Information
 
 Contracts at
