@@ -2,7 +2,7 @@ var SquareVerifier = artifacts.require("SquareVerifier");
 var SolnSquareVerifier = artifacts.require("SolnSquareVerifier");
 
 
-contract('TestERC721Mintable', accounts => {
+contract('TestSolnSquareVerifier', accounts => {
 
     const account_one = accounts[0];
     const account_two = accounts[1];
