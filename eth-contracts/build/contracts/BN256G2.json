@@ -9026,24 +9026,6 @@
                 {
                   "externalReferences": [
                     {
-                      "success": {
-                        "declaration": 8181,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "7221:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
-                      "result": {
-                        "declaration": 8178,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "7307:6:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
                       "n": {
                         "declaration": 8175,
                         "isOffset": false,
@@ -9067,6 +9049,24 @@
                         "isOffset": false,
                         "isSlot": false,
                         "src": "7159:1:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 8181,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "7221:7:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "result": {
+                        "declaration": 8178,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "7307:6:4",
                         "valueSize": 1
                       }
                     }
@@ -22977,24 +22977,6 @@
                 {
                   "externalReferences": [
                     {
-                      "success": {
-                        "declaration": 9167,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "17462:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
-                      "success": {
-                        "declaration": 9167,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "17602:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
                       "input": {
                         "declaration": 9136,
                         "isOffset": false,
@@ -23009,6 +22991,24 @@
                         "isOffset": false,
                         "isSlot": false,
                         "src": "17515:1:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 9167,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "17462:7:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 9167,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "17602:7:4",
                         "valueSize": 1
                       }
                     }
@@ -24536,15 +24536,6 @@
                         "declaration": 9276,
                         "isOffset": false,
                         "isSlot": false,
-                        "src": "18359:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
-                      "success": {
-                        "declaration": 9276,
-                        "isOffset": false,
-                        "isSlot": false,
                         "src": "18499:7:4",
                         "valueSize": 1
                       }
@@ -24564,6 +24555,15 @@
                         "isOffset": false,
                         "isSlot": false,
                         "src": "18412:1:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 9276,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "18359:7:4",
                         "valueSize": 1
                       }
                     }
@@ -26670,15 +26670,6 @@
                       }
                     },
                     {
-                      "success": {
-                        "declaration": 9429,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "19625:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
                       "inputSize": {
                         "declaration": 9309,
                         "isOffset": false,
@@ -26693,6 +26684,15 @@
                         "isOffset": false,
                         "isSlot": false,
                         "src": "19536:3:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 9429,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "19625:7:4",
                         "valueSize": 1
                       }
                     }
@@ -45093,24 +45093,6 @@
                 {
                   "externalReferences": [
                     {
-                      "success": {
-                        "declaration": 8181,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "7221:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
-                      "result": {
-                        "declaration": 8178,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "7307:6:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
                       "n": {
                         "declaration": 8175,
                         "isOffset": false,
@@ -45134,6 +45116,24 @@
                         "isOffset": false,
                         "isSlot": false,
                         "src": "7159:1:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 8181,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "7221:7:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "result": {
+                        "declaration": 8178,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "7307:6:4",
                         "valueSize": 1
                       }
                     }
@@ -59044,24 +59044,6 @@
                 {
                   "externalReferences": [
                     {
-                      "success": {
-                        "declaration": 9167,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "17462:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
-                      "success": {
-                        "declaration": 9167,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "17602:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
                       "input": {
                         "declaration": 9136,
                         "isOffset": false,
@@ -59076,6 +59058,24 @@
                         "isOffset": false,
                         "isSlot": false,
                         "src": "17515:1:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 9167,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "17462:7:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 9167,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "17602:7:4",
                         "valueSize": 1
                       }
                     }
@@ -60603,15 +60603,6 @@
                         "declaration": 9276,
                         "isOffset": false,
                         "isSlot": false,
-                        "src": "18359:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
-                      "success": {
-                        "declaration": 9276,
-                        "isOffset": false,
-                        "isSlot": false,
                         "src": "18499:7:4",
                         "valueSize": 1
                       }
@@ -60631,6 +60622,15 @@
                         "isOffset": false,
                         "isSlot": false,
                         "src": "18412:1:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 9276,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "18359:7:4",
                         "valueSize": 1
                       }
                     }
@@ -62737,15 +62737,6 @@
                       }
                     },
                     {
-                      "success": {
-                        "declaration": 9429,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "19625:7:4",
-                        "valueSize": 1
-                      }
-                    },
-                    {
                       "inputSize": {
                         "declaration": 9309,
                         "isOffset": false,
@@ -62760,6 +62751,15 @@
                         "isOffset": false,
                         "isSlot": false,
                         "src": "19536:3:4",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "success": {
+                        "declaration": 9429,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "19625:7:4",
                         "valueSize": 1
                       }
                     }
@@ -72291,7 +72291,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-04-28T05:04:04.346Z",
+  "updatedAt": "2020-04-28T05:48:28.686Z",
   "devdoc": {
     "author": "Mustafa Al-Bassam (mus@musalbas.com)",
     "details": "Homepage: https://github.com/musalbas/solidity-BN256G2",
