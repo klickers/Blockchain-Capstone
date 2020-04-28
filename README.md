@@ -4,7 +4,9 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 # Project Information
 
-Transaction located at [https://rinkeby.etherscan.io/tx/0xa6d42f93f05ea2cdf4e5137d45741105d03c838b646c614d42018974e4e6a26d](https://rinkeby.etherscan.io/tx/0xa6d42f93f05ea2cdf4e5137d45741105d03c838b646c614d42018974e4e6a26d), contract at [https://rinkeby.etherscan.io/address/0xe981fc6275cb40a38f2b92b9a7bf438f71aa9bc7](https://rinkeby.etherscan.io/address/0xe981fc6275cb40a38f2b92b9a7bf438f71aa9bc7).
+Contracts at
+ - https://rinkeby.etherscan.io/address/0x11670598c194117e7c47c8d3439a4e43d5080a0e
+ - https://rinkeby.etherscan.io/tx/0xa6d42f93f05ea2cdf4e5137d45741105d03c838b646c614d42018974e4e6a26d
 
 
 # Usage
